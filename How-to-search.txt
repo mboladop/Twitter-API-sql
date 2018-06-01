@@ -1,0 +1,10 @@
+HOW TO SEARCH:
+{
+X:x ——> treated as a class .x
+X:x
+X:x
+X: {
+	y:y——> treated as a dict [‘y’]
+	y:Y
+	}
+	Z:Z ———> class in class .x.z
